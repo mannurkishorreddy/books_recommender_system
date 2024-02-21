@@ -39,6 +39,8 @@ To use the notebooks:
 1. Clone the repository.
 2. Ensure you have Jupyter Notebook installed.
 3. Open the notebooks in Jupyter to view, edit, or run the cells.
+4. For EDA notebook, use the original datasets, the outputs from this notebook are saved as cleaned datasets
+5. Using the cleaned datasets, run the Modeling notebook.
 
 ## Contributions
 
